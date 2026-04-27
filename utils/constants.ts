@@ -4,7 +4,7 @@ interface Inav{
 }
 
 export const navLinks:Inav[]=[
-    {path: "/Blog", name: "BLOG"},
+    {path: "/Blogs", name: "BLOGS"},
     {path: "/Services", name: "SERVICES"},
     {path: "/About", name: "ABOUT"},
     {path: "/Testimony", name: "TESTIMONY"},
